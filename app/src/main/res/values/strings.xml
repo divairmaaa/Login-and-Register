@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Showroom Warehouse</string>
+    <string name="cars_name">Tipe Mobil</string>
+    <string name="jumlah">Jumlah</string>
+</resources>
